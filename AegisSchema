@@ -1,0 +1,40 @@
+<!-- JSON-LD markup by Anchor Digital -->
+<script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "LocalBusiness",
+      "name" : "Aegis Property Group",
+      "image" : "https://aegispg.com.au/realCMS/custom/images/logo-light-306x92.png",
+      "telephone" : "07 3195 9960",
+      "email" : "info@aegispg.com.au",
+      "address" : {
+        "@type" : "PostalAddress",
+        "streetAddress" : "Terrace Office Park, South Tower 527 Gregory Tce, Fortitude Valley",
+        "addressLocality" : "Brisbane",
+        "addressRegion" : "QLD",
+        "addressCountry" : "Australia",
+        "postalCode" : "4006"
+      },
+      "openingHoursSpecification" : {
+        "@type" : "OpeningHoursSpecification",
+        "dayOfWeek" : {
+          "@type" : "DayOfWeek",
+          "name" : "Mon - Fri"
+        },
+        "opens" : "08:00",
+        "closes" : "16:00"
+      },
+      "url" : "http://aegispg.com.au/",
+      "review" : {
+        "@type" : "Review",
+        "author" : {
+          "@type" : "Person",
+          "name" : "Google"
+        },
+        "reviewRating" : {
+          "@type" : "Rating",
+          "ratingValue" : "5.0"
+        }
+      }
+    }
+    </script>
