@@ -1,0 +1,37 @@
+<!-- JSON-LD markup by Anchor Digital -->
+<script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "LocalBusiness",
+      "name" : "Home Fires – The Fan Man",
+      "image" : "https://homefires.com.au/wp-content/themes/altitude-pro/images/logo-home-fires.jpg",
+      "telephone" : "02 9820 5099",
+      "email" : "sales@homefires.com.au",
+      "address" : {
+        "@type" : "PostalAddress",
+        "streetAddress" : "3/ 32 Swettenham Rd Minto",
+        "addressLocality" : "Sydney",
+        "addressRegion" : "NSW",
+        "postalCode" : "2566"
+      },
+      "openingHoursSpecification" : {
+        "@type" : "OpeningHoursSpecification",
+        "dayOfWeek" : [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
+        "opens" : "08:30",
+        "closes" : "17:00"	
+    },
+      "url" : "http://www.homefires.com.au/",
+      "aggregateRating" : {
+        "@type" : "AggregateRating",
+        "ratingValue" : "4.5",
+        "ratingCount" : "127"
+      },
+      "review" : {
+        "@type" : "Review",
+        "author" : {
+          "@type" : "Person",
+          "name" : "Google"
+        }
+      }
+    }
+    </script>
