@@ -1,0 +1,25 @@
+<!-- JSON-LD markup by Anchor Digital -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "Ryno Hire",
+  "image" : "https://www.rynohire.com.au/wp-content/uploads/2020/03/cropped-RH_LOGO_SIDE_WHITE_SQR.png",
+  "telephone" : "07 3353 2230",
+  "email" : "info@rynohire.com.au",
+  "address" : {
+    "@type" : "PostalAddress",
+    "streetAddress" : "U2-5 / B2, 29 Timms Road, Everton Hills",
+    "addressLocality" : "Brisbane",
+    "addressRegion" : "QLD",
+    "addressCountry" : "Australia",
+    "postalCode" : "4053"
+  },
+  "url" : "https://www.rynohire.com.au/",
+  "aggregateRating" : {
+    "@type" : "AggregateRating",
+    "ratingValue" : "5.0",
+    "ratingCount" : "32"
+  }
+}
+</script>
