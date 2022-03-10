@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/andrewanchordigital/ClientsJSONSchema">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://lh3.googleusercontent.com/-7xULBZGWKmk/AAAAAAAAAAI/AAAAAAAAAAA/Hxr4GzQqwLY/s44-p-k-no-ns-nd/photo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">README-Anchor Digital</h3>
