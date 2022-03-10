@@ -160,9 +160,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Andrew Thorpe - [andrew@anchordigital.com.au] - andrew@anchordigital.com.au
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/andrewanchordigital/ClientsJSONSchema](https://github.com/andrewanchordigital/ClientsJSONSchema)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,6 +176,6 @@ Use this space if any of the work was copied from another source. Data integrity
 Example: 
 
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
